@@ -1,0 +1,12 @@
+{
+  "name": "ui-dracula",
+  "displayName": "Dracula",
+  "theme": "ui",
+  "version": "0.1.0",
+  "description": "Dracula Theme for MailSpring",
+  "license": "GPL-3.0",
+  "engines": {
+    "mailspring": "*"
+  },
+  "private": true
+}
